@@ -1,8 +1,16 @@
-### Hi there 👋
+### Здравствуите и добро пожаловать!!!
+# (It says "Hello and Welcome" not "Give me your Launch Codes"👋
 
 <!--
 **Ismail-Barry/Ismail-Barry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an undergraduate senior studying Aerospace Engineering at Iowa State University. This is my preliminary introduction into the world of GitHub and Python. I'm excited to expand my coding skill set and discover what new and cutting edge projects others in the Aerospace industry and beyond are currently engaged in. The world is becoming increasingly digitial, with big data, coding, and Machine learning/AI becoming dominant topics in most of the worlds industries and markets. I'm intrigued by these topics and this platform, and hope to learn from and work with as many people as possible.
 
+I'm also a polyglot, and love world cultures. Send me your favorite quotes in your native or favorite language.
+
+Talk to me about Space
+Talk to me about Nuclear Energy
+Talk to me about AI
+Talk to me about <insert cool cutting edge or deep existensial topic here>, I'll probably still be fascinated.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
